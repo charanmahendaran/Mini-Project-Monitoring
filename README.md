@@ -108,29 +108,6 @@ B --> E[LED]
 
 ---
 
-## 📁 Project Structure
-
-```bash
-mqtt-iot-esp32-monitoring/
-│
-├── code/
-│   ├── temperature_humidity/
-│   │   └── esp32_dht22_mqtt.ino
-│   └── led_control/
-│       └── esp32_led_mqtt.ino
-│
-├── docs/
-│   └── mqtt_report.pdf
-│
-├── images/
-│   ├── result1.png
-│   ├── result2.png
-│
-└── README.md
-```
-
----
-
 ## 🔄 Working Principle
 
 ### 📤 Data Flow (Sensor → Cloud)
