@@ -1,8 +1,8 @@
 # 🌐 Smart Environmental Monitoring & Remote LED Control using MQTT
 
 <p align="center">
-  <img src="images/result1.png" width="500"/>
-  <img src="images/result2.png" width="500"/>
+  <img src="images/result1.png" width="700"/>
+  <img src="images/result2.png" width="700"/>
 </p>
 
 ---
